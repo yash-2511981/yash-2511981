@@ -2,9 +2,7 @@
 
 ### Full-Stack JavaScript Developer | MERN Stack Specialist | Next.js Architect
 
-A results-driven developer focused on building **scalable, production-ready systems**. I combine a strong academic foundation (B.Sc. IT '24) with practical expertise in **architectural design** and **real-time communication**.
-
-My philosophy centers on **pragmatic tooling**—utilizing **TypeScript/Zod** for high-integrity modules and **JavaScript/Zustand** for lightweight performance.
+A dedicated **MERN Stack Architect** who engineers **scalable, multi-tenant applications** and real-time communication systems. I hold a B.Sc. in IT and specialize in thoughtful development practices, including utilizing **pragmatic tooling**: opting for **TypeScript/Zod** on complex backend modules and pure **JavaScript** with lightweight state managers like Zustand for front-end speed.
 
 ---
 
@@ -14,7 +12,7 @@ My philosophy centers on **pragmatic tooling**—utilizing **TypeScript/Zod** fo
 | :--- | :--- | :--- |
 | **Backend** | Node.js, Express.js, JWT, Zod | **Multi-Tenant Monolithic API**, API Segregation, Middleware Design |
 | **Frontend** | React.js, Next.js, TypeScript, Tailwind | **UX-Driven Architecture**, Responsive Design, Diverse State Management (Redux/Zustand) |
-| **Databases** | MongoDB (Mongoose), PostgreSQL, MySQL | Efficient Data Modeling, Database-Agnostic Design |
+| **Databases** | MongoDB (Mongoose), PostgreSQL | Efficient Data Modeling, Database-Agnostic Design |
 | **Real-Time/AI** | Socket.io, WebRTC, OpenAI API | Low-Latency Messaging, Peer-to-Peer Calls, AI Integration |
 
 ---
