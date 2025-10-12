@@ -14,7 +14,7 @@ My philosophy centers on **pragmatic tooling**—utilizing **TypeScript/Zod** fo
 | :--- | :--- | :--- |
 | **Backend** | Node.js, Express.js, JWT, Zod | **Multi-Tenant Monolithic API**, API Segregation, Middleware Design |
 | **Frontend** | React.js, Next.js, TypeScript, Tailwind | **UX-Driven Architecture**, Responsive Design, Diverse State Management (Redux/Zustand) |
-| **Databases** | MongoDB (Mongoose), PostgreSQL | Efficient Data Modeling, Database-Agnostic Design |
+| **Databases** | MongoDB (Mongoose), PostgreSQL, MySQL | Efficient Data Modeling, Database-Agnostic Design |
 | **Real-Time/AI** | Socket.io, WebRTC, OpenAI API | Low-Latency Messaging, Peer-to-Peer Calls, AI Integration |
 
 ---
