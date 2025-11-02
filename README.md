@@ -8,12 +8,14 @@ A dedicated **MERN Stack Architect** who engineers **scalable, multi-tenant appl
 
 ### 🛠️ Core Expertise & Architectural Focus
 
-| Area | Technologies | Advanced Concepts |
+| 🧩 Area | ⚙️ Technologies | 🚀 Advanced Concepts |
 | :--- | :--- | :--- |
 | **Backend** | Node.js, Express.js, JWT, Zod | **Multi-Tenant Monolithic API**, API Segregation, Middleware Design |
-| **Frontend** | React.js, Next.js, TypeScript, Tailwind | **UX-Driven Architecture**, Responsive Design, Diverse State Management (Redux/Zustand) |
-| **Databases** | MongoDB (Mongoose), PostgreSQL | Efficient Data Modeling, Database-Agnostic Design |
-| **Real-Time/AI** | Socket.io, WebRTC, OpenAI API | Low-Latency Messaging, Peer-to-Peer Calls, AI Integration |
+| **Frontend** | React.js, Next.js, TypeScript, Tailwind | **UX-Driven Architecture**, Responsive Design, State Management (Redux/Zustand) |
+| **Databases** | MongoDB (Mongoose), PostgreSQL, MySQL | Efficient Data Modeling, Database-Agnostic Design |
+| **Real-Time / AI** | Socket.io, WebRTC, OpenAI API, **Google Gemini API** | Low-Latency Messaging, Peer-to-Peer Calls, AI Content Generation |
+| **APIs & Integrations** | Razorpay, Cloudinary | Secure Payment Flows, Optimized Media Management |
+| **Deployment & DevOps** | Docker, Vercel, Render | Containerized Deployments, Environment Configuration, Scalable Hosting |
 
 ---
 
