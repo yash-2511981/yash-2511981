@@ -25,4 +25,6 @@ A dedicated **MERN Stack Architect** who engineers **scalable, multi-tenant appl
 | **💬 VibeChatt** | Advanced **Real-Time Chat Application** for 1:1 and group communication. | **Socket.io** (Messaging), **WebRTC** (Video/Audio Calls), JWT Auth. |
 | **📄 AI Resume Builder** | Intelligent profile creator leveraging **AI for content generation** and optimization. | **Next.js**, **PostgreSQL**, Clerk Auth, OpenAI API. |
 
+> 🧩 *I’ve also built additional projects, including two PHP-based web apps and a Next.js side project — expanding my full-stack experience across multiple ecosystems.*
+
 ***➡️ [View My Full Portfolio](https://portfolio-green-eight-t50zye0ynv.vercel.app/)** | **📧 shetyeyash444@gmail.com***
