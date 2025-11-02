@@ -1,6 +1,6 @@
 # Hi, I'm Yash Shetye 👋
 
-### Full-Stack JavaScript Developer | MERN Stack Specialist | Next.js Architect
+### Full-Stack JavaScript Developer | MERN Stack Specialist | Next.js Developer
 
 A dedicated **MERN Stack Architect** who engineers **scalable, multi-tenant applications** and real-time communication systems. I hold a B.Sc. in IT and specialize in thoughtful development practices, including utilizing **pragmatic tooling**: opting for **TypeScript/Zod** on complex backend modules and pure **JavaScript** with lightweight state managers like Zustand for front-end speed.
 
