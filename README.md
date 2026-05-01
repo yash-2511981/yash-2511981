@@ -29,4 +29,4 @@ A dedicated **MERN Stack Architect** who engineers **scalable, multi-tenant appl
 
 > 🧩 *I’ve also built additional projects, including two PHP-based web apps and a Next.js side project — expanding my full-stack experience across multiple ecosystems.*
 
-***➡️ [View My Full Portfolio](https://portfolio-green-eight-t50zye0ynv.vercel.app/)** | **📧 shetyeyash444@gmail.com***
+***➡️ [View My Full Portfolio](https://yashshetye.vercel.app/)** | **📧 shetyeyash444@gmail.com***
