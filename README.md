@@ -34,10 +34,8 @@ Currently, I'm working on an enterprise offline-first synchronization platform w
 
 ---
 
-## 📫 Connect
+---
 
-| | |
-|---|---|
-| 🌐 Portfolio | https://yashshetye.vercel.app |
-| 💼 LinkedIn | https://linkedin.com/in/yash-shetye-16bcf |
-| 📧 Email | shetyeyash444@gmail.com |
+## 📫 Connect With Me
+
+**🌐 [Portfolio](https://yashshetye.vercel.app/)** • **💼 [LinkedIn](https://linkedin.com/in/yash-shetye-16bcf)** • **📧 shetyeyash444@gmail.com**
